@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6D06C1C2-1763-4411-A1E3-93068C8CE044</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iVoice</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7C2DEFC7-6AE5-4254-90FD-18BC0BB63FF0</key>
+		<string>https://github.com/hhfa008/ds.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iVoice/iVoice.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7C2DEFC7-6AE5-4254-90FD-18BC0BB63FF0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hhfa008/ds.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7C2DEFC7-6AE5-4254-90FD-18BC0BB63FF0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7C2DEFC7-6AE5-4254-90FD-18BC0BB63FF0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>github</string>
+		</dict>
+	</array>
+</dict>
+</plist>
